@@ -12,9 +12,9 @@ public class Main {
 
 //        System.out.println(strings.separated("Hasintha,Abeykoon,KHK", ","));
 
-//        System.out.println(strings.reverse("Hasintha"));
+        System.out.println(strings.reverse("Hasintha"));
 //        System.out.println(strings.isPalindrome("khk"));
-        System.out.println(prime.reverseInt(521));
+//        System.out.println(prime.reverseInt(521));
     }
 
 
